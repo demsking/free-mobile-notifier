@@ -1,6 +1,6 @@
 {
   "name": "free-mobile-notifier",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple Free mobile notification sender",
   "main": "index.js",
   "scripts": {
@@ -20,6 +20,9 @@
     "sms"
   ],
   "author": "emersion",
+  "contributors": [
+    "demsking"
+  ]
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/emersion/free-mobile-notifier/issues"
