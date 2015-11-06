@@ -1,4 +1,5 @@
 var fs = require('fs');
+var path = require('path');
 var request = require('request');
 var querystring = require('querystring');
 var https = require('https');
@@ -23,7 +24,7 @@ Notifier.prototype.send = function (msg, callback) {
 	};
 
 	var options = url.parse(Notifier.apiUrl+'?'+querystring.stringify(data));
-	options.cert = fs.readFileSync('freemobile.crt');
+	options.cert = fs.readFileSync(path.join(__dirname, 'freemobile.crt'));
 	options.rejectUnauthorized = false;
 
 	try {
