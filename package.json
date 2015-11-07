@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/emersion/free-mobile-notifier.git"
+    "url": "https://github.com/demsking/free-mobile-notifier.git"
   },
   "keywords": [
     "free",
@@ -25,9 +25,9 @@
   ]
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/emersion/free-mobile-notifier/issues"
+    "url": "https://github.com/demsking/free-mobile-notifier/issues"
   },
-  "homepage": "https://github.com/emersion/free-mobile-notifier",
+  "homepage": "https://github.com/demsking/free-mobile-notifier",
   "dependencies": {
     "request": "^2.49.0"
   }
