@@ -1,4 +1,4 @@
-free-mobile-notifier
+free-mobile-sms
 ==================
 
 A simple Free mobile notification sender for Node.js.
