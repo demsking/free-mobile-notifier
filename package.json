@@ -1,5 +1,5 @@
 {
-  "name": "free-mobile-notifier",
+  "name": "free-mobile-sms",
   "version": "1.0.1",
   "description": "A simple Free mobile notification sender",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/demsking/free-mobile-notifier.git"
+    "url": "https://github.com/demsking/free-mobile-sms.git"
   },
   "keywords": [
     "free",
@@ -25,9 +25,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/demsking/free-mobile-notifier/issues"
+    "url": "https://github.com/demsking/free-mobile-sms/issues"
   },
-  "homepage": "https://github.com/demsking/free-mobile-notifier",
+  "homepage": "https://github.com/demsking/free-mobile-sms",
   "dependencies": {
     "request": "^2.49.0"
   }
